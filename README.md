@@ -3,6 +3,7 @@
 Output:
 
 đầu ra của file test.c:
+
 ![image](https://github.com/user-attachments/assets/055ce889-4985-454c-8095-4edb74fbe214)
 
 kernel log:
