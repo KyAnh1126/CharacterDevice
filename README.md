@@ -19,5 +19,6 @@ tiến trình 2 (bị chặn truy cập vào ebbchar file cho đến khi tiến 
 
 ![image](https://github.com/user-attachments/assets/69c3fca3-a236-4b80-87d1-0fcbdb68521f)
 
+tiến trình 2 (sau khi tiến trình 1 kết thúc và giải phóng mutex):
 
-
+![image](https://github.com/user-attachments/assets/7e298b5a-d7df-4b14-bd24-943c9de4acd4)
