@@ -1,6 +1,6 @@
 /**
  * @file   testebbchar.c
- * @author Derek Molloy
+ * @author Ky Anh
  * @date   7 April 2015
  * @version 0.1
  * @brief  A Linux user space program that communicates with the ebbchar.c LKM. It passes a
